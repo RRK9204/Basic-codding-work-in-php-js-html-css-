@@ -1,0 +1,26 @@
+<head> 
+<title></title> 
+<link href="css/style.css" rel="stylesheet" type="text/css" media="all"> 
+</head> 
+<body> 
+<div style="background-color:green"> 
+<h1 class="Maxx"><center>CYBERSHOP INC<center></h1> 
+<ul> 
+<li>Ravi</li> 
+<li>Moham</li> 
+<li>Ram</li> 
+<li>Karan</li> 
+<li>Jai</li> 
+<li>Kabir</li> 
+</ul> 
+</div> 
+<div style="background-color:blue"> Blue Color 
+</div> 
+<div style="background-color: green"> Green Color </div> 
+<div style="background-color:goldenrod"> Golden Color 
+</div> 
+</body>
+</html> 
+.Maxx{ 
+font-size: 120%; color: ’green’; font weight: bold; font-family: cursive; 
+}
